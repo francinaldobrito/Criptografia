@@ -1,0 +1,1 @@
+arquivo.py arquivo.txt numero da chave codição enc ou dec
